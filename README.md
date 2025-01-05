@@ -1,6 +1,6 @@
 # explorills_Nodes Contract
 
-ERC721 cross-chain contract with signature-based minting and dual-escrow system
+ERC721 cross-chain contract with whitelist functionality, dual-escrow system and backup address support
 
 ## General Functionality
 
