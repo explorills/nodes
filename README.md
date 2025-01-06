@@ -113,7 +113,9 @@ BSD-3-Clause License
 - [Flare-explorer](https://flare-explorer.flare.network/address/0x468F1F91fc674e0161533363B13c2ccBE3769981?tab=contract)
 
 ### explorills_NodesEscrow
-- To Be Deployed
+- 0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4
+Github: [explorills/node-escrow](https://github.com/explorills/node-escrow/tree/main)
+
 ### explorills_CrossChainEscrow
 - To Be Deployed
 ---
