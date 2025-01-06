@@ -121,4 +121,4 @@ BSD-3-Clause License
 - Github: [explorills/node-bridge-escrow](https://github.com/explorills/node-bridge-escrow/tree/main)
 ---
 
-- explorills community 2024
+- explorills community 2025
