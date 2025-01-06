@@ -112,11 +112,11 @@ BSD-3-Clause License
 - [Etherscan.io](https://etherscan.io/address/0x468F1F91fc674e0161533363B13c2ccBE3769981#code)
 - [Flare-explorer](https://flare-explorer.flare.network/address/0x468F1F91fc674e0161533363B13c2ccBE3769981?tab=contract)
 
-### explorills_NodesEscrow
+### explorills_NodeEscrow
 - 0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4
 - Github: [explorills/node-escrow](https://github.com/explorills/node-escrow/tree/main)
 
-### explorills_CrossChainEscrow
+### explorills_BridgeEscrow
 - 0x129D9dce2326492d073D147762230e60c01e0f97
 - Github: [explorills/node-bridge-escrow](https://github.com/explorills/node-bridge-escrow/tree/main)
 ---
