@@ -9,7 +9,7 @@ ERC721 cross-chain contract with whitelist functionality, dual-escrow system and
 3. Supports backup address functionality for enhanced security
 4. Includes whitelist functionality for reserved minting
 5. Enables cross-chain transfers and balance management
-6. The Node Escrow automatically activates the pulling window once 1-10,800 Nodes have been MINTED
+6. The Node Escrow automatically activates the pulling window once 1-10,800 Nodes have been minted
 
 ## Main Functions
 
