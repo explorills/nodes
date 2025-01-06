@@ -114,7 +114,7 @@ BSD-3-Clause License
 
 ### explorills_NodesEscrow
 - 0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4
-Github: [explorills/node-escrow](https://github.com/explorills/node-escrow/tree/main)
+- Github: [explorills/node-escrow](https://github.com/explorills/node-escrow/tree/main)
 
 ### explorills_CrossChainEscrow
 - To Be Deployed
