@@ -1,4 +1,4 @@
-    // SPDX-License-Identifier: MIT
+    // SPDX-License-Identifier: BSD-3-Clause
     pragma solidity ^0.8.0;
 
     import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
@@ -9,7 +9,7 @@
     /**
      * ORIGINAL AUTHOR INFORMATION:
      * 
-     * @author explorills community 2024
+     * @author explorills community 2025
      * @custom:web https://explorills.com
      * @custom:contact info@explorills.com
      * @custom:security-contact info@explorills.ai
@@ -34,7 +34,7 @@
      * The software is provided "as-is," without any warranties, and the original authors are not liable for any issues arising from its use.
      */
 
-    /// @author explorills community 2024
+    /// @author explorills community 2025
     /// @custom:web https://explorills.com
     /// @custom:contact info@explorills.com
     /// @custom:security-contact info@explorills.ai
